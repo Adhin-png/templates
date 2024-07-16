@@ -48,6 +48,7 @@ h5{
     height: 227px;
     border: 1px solid rgb(81, 78, 78);
     margin-left: 264px;
+    padding-left: 30px;
 }
 
 .container3{
@@ -93,14 +94,17 @@ hr{
 
 #box{
   text-align:left;
-  width: 365px;
-  height: 263px;
+  width: 375px;
+  height: 250px;
   padding:12px;
   float:right;
   padding-right: 30px;
   margin-top: -763px;
   margin-left: 200px;
   margin-right:269px;
+  border-left:1px solid white;
+  border-left-style:dotted;
+ 
 }
 
 
